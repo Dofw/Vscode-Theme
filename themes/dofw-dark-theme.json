@@ -19,8 +19,6 @@
     // 头部
     "titleBar.activeBackground": "#1a1a1a",
     "titleBar.activeForeground": "#939293",
-    "titleBar.inactiveBackground": "#1a1a1a",
-    "titleBar.inactiveForeground": "#42b88392",
     "menubar.selectionBorder": "#42b883",
     "menubar.selectionForeground": "#42b883",
     "menu.background": "#24292e",
@@ -34,10 +32,9 @@
     "activityBar.inactiveForeground": "#939293",
     "activityBarBadge.background": "#42b883",
     // 左侧目录 - sideBar bar
-    "sideBar.border": "#93929300",
+    "sideBar.border": "#42b88328",
     "sideBar.background": "#242424",
     "sideBar.foreground": "#939293",
-    "sideBar.dropBackground": "#ff0000",
     "sideBarSectionHeader.border": "#93929300",
     "sideBarSectionHeader.background": "#242424",
     "badge.foreground": "#42b883",
@@ -45,8 +42,7 @@
     "editor.background": "#242424",
     "editor.lineHighlightBackground": "#1a1a1a",
     "editorIndentGuide.background": "#42b883",
-    // content-code行数列背景
-    "editorGutter.background": "#242424",
+    "editorGutter.background": "#242424", // content-code行数列背景
     // 下面状态栏
     "statusBar.background": "#1a1a1a",
     // tab、及整个tabs背景
@@ -62,7 +58,14 @@
     "tab.inactiveForeground": "#939293",
     "editorGroup.border": "#42b88328",
     // 终端
-    "terminal.background": "#242424"
+    "terminal.background": "#242424",
+    "terminal.border": "#42b88328",
+    "panel.border": "#42b883",
+    "panel.background": null,
+    "panelTitle.activeBorder": "#42b883",
+    "panelTitle.activeForeground": "#42b883",
+    "panelTitle.inactiveForeground": "#939293",
+    "panelInput.border": "#42b883",
   },
   "tokenColors": [
     {
