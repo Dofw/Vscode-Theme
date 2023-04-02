@@ -13,9 +13,9 @@
     "list.hoverBackground": "#1a1a1a",
     "list.highlightForeground": "#edb90f",
     "list.focusHighlightForeground": "#edb90f",
-    // 快搜
-    "quickInputList.focusBackground": "#42b883",
-    "quickInputList.focusForeground": "#24292e",
+    // 快搜 及 list
+    "quickInputList.focusBackground": "#42b8838f", // list active-bg
+    "quickInputList.focusForeground": "#24292e", // list active-font
     // 头部
     "titleBar.activeBackground": "#1a1a1a",
     "titleBar.activeForeground": "#939293",
