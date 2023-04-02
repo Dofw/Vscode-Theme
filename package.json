@@ -12,9 +12,14 @@
   "contributes": {
     "themes": [
       {
+        "label": "Dofw light Theme",
+        "uiTheme": "vs",
+        "path": "./themes/dofw-light-theme.json"
+      },
+      {
         "label": "Dofw Dark Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/Dofw Dark Theme-color-theme.json"
+        "path": "./themes/dofw-dark-theme.json"
       }
     ]
   }
