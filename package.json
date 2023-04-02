@@ -1,0 +1,21 @@
+{
+  "name": "dofw-dark-theme",
+  "displayName": "Dofw Dark Theme",
+  "description": "custom dark theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dofw Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dofw Dark Theme-color-theme.json"
+      }
+    ]
+  }
+}
