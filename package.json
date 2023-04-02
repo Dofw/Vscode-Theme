@@ -1,7 +1,7 @@
 {
-  "name": "dofw-dark-theme",
-  "displayName": "Dofw Dark Theme",
-  "description": "custom dark theme",
+  "name": "dofw-themes",
+  "displayName": "Dofw themes",
+  "description": "custom themes",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.77.0"
@@ -12,12 +12,12 @@
   "contributes": {
     "themes": [
       {
-        "label": "Dofw light Theme",
+        "label": "Dofw light",
         "uiTheme": "vs",
         "path": "./themes/dofw-light-theme.json"
       },
       {
-        "label": "Dofw Dark Theme",
+        "label": "Dofw Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/dofw-dark-theme.json"
       }
